@@ -1,4 +1,4 @@
-<h1>I implemented a logistic regression model to predict buyer behavior using the Social Network Ads dataset from Kaggle.<\h1>
+<h1>I implemented a logistic regression model to predict buyer behavior using the Social Network Ads dataset from Kaggle.</h1>
 <br>
 This project has been a fantastic journey, deepening my understanding of machine learning algorithms and their practical applications.
 Dataset: Social Network Ads from Kaggle(provided)

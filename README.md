@@ -1,5 +1,5 @@
 I implemented a logistic regression model to predict buyer behavior using the Social Network Ads dataset from Kaggle.
-<be>
+<br>
 This project has been a fantastic journey, deepening my understanding of machine learning algorithms and their practical applications.
 Dataset: Social Network Ads from Kaggle(provided)
 Objective: Predict whether a user will purchase a product based on their age and estimated salary.
